@@ -1,2 +1,0 @@
-# gitsamples
-git samples
